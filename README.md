@@ -13,3 +13,4 @@ However, one consideration was made while refining the dataset.
 If a data set is created by dividing the interactive structure data set only into speakers Q and A, can the model understand the Q&A of the interactive structure data set?
 
 Thus, in preparation for the fact that the desired answers of the chatbot will not all end with a single sentence sequence, Answer's data set was also manufactured in a structure that teaches learning with a training set.
+![image](https://github.com/matrix215/transformer-with-BERT-embedding/assets/101815603/a8063895-cdf3-4eff-aaa5-84f356292e4a)
