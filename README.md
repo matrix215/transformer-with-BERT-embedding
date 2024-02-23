@@ -1,3 +1,7 @@
+![image](https://github.com/matrix215/transformer-with-BERT-embedding/assets/101815603/54ffa624-0a32-4fbe-88fd-d5ce23d0da56)
+
+![image](https://github.com/matrix215/transformer-with-BERT-embedding/assets/101815603/ba1a42e4-283b-41a4-84c7-47b00c07db20)
+
 This is a project on natural language processing. The purpose of this is to create a chatbot using a transformer model. I also apply BERT embeddings to the transformer model to see how the chatbot results change somewhat.
 
 The data set used was a data set related to all inquiries or refunds regarding packages extracted from AIhub's 'purpose conversation data for each purpose', which consists of a JSON file. 
