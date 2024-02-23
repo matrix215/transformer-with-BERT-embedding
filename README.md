@@ -6,7 +6,7 @@ This is a project on natural language processing. The purpose of this is to crea
 
 The data set used was a data set related to all inquiries or refunds regarding packages extracted from AIhub's 'purpose conversation data for each purpose', which consists of a JSON file. 
 
-How to build a dataset: The experimental environment is GeForce RTX 2060 SUPER GPU, which limits learning depending on the data size, so only the "refund exchange" dataset is trained.
+****How to build a dataset**:** The experimental environment is GeForce RTX 2060 SUPER GPU, which limits learning depending on the data size, so only the "refund exchange" dataset is trained.
 
 The total number of data is 1910 QAs.
 
