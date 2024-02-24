@@ -37,7 +37,7 @@ This repository is based on the following repositories:
       primaryClass={cs.CL}
 }
 ```
-###BERT
+### BERT
 ```bash
 @misc{devlin2019bert,
       title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding}, 
