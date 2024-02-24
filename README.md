@@ -22,3 +22,29 @@ If a data set is created by dividing the interactive structure data set only int
 Thus, in preparation for the fact that the desired answers of the chatbot will not all end with a single sentence sequence, the Answer's data set was also manufactured in a structure that teaches learning with a training set.
 
 ![image](https://github.com/matrix215/transformer-with-BERT-embedding/assets/101815603/a8063895-cdf3-4eff-aaa5-84f356292e4a)
+
+
+# Acknowledgement
+This repository is based on the following repositories:
+### transformer
+```bash
+@misc{vaswani2023attention,
+      title={Attention Is All You Need}, 
+      author={Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
+      year={2023},
+      eprint={1706.03762},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+###BERT
+```bash
+@misc{devlin2019bert,
+      title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding}, 
+      author={Jacob Devlin and Ming-Wei Chang and Kenton Lee and Kristina Toutanova},
+      year={2019},
+      eprint={1810.04805},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
